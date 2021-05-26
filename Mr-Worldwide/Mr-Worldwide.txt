@@ -8,8 +8,8 @@ Author: Danny
 Description
 
 A musician left us a message. What's it mean?
+https://jupiter.challenges.picoctf.org/static/d5570d48262dbba2a31f2a940409ad9d/message.txt
 
-debug info: [u:79979 e: p: c:40 i:100]
 
 Hints
 
