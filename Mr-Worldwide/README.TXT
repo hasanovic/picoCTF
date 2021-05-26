@@ -1,4 +1,4 @@
-In the message are GPS Coordiates implemented. A simple google maps search is revealing Citys. Take the first letter of the city change the coordinates for it.
+In the message are GPS Coordiates implemented. A simple google maps search is revealing Citys. Take the first letter of the city, and replace the coordinates for them.
 
 picoCTF{
 (35.028309, 135.753082) Nakanocho, Kamigyō-ku, Kyōto, Präfektur Kyōto 602-0958, Japan
